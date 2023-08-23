@@ -7,5 +7,5 @@ I'm Samet
 - ⚡ Fun fact: Original code name of C# was "cool" which stood for ‘C like Object Oriented Language’.
 
 [C#]:<https://dotnet.microsoft.com/en-us/languages/csharp>
-[Go]:<https://go.dev>
+[Python]:<https://www.python.org/>
 [My LinkedIn]:<https://www.linkedin.com/in/samet-arslan-b98849214/>
